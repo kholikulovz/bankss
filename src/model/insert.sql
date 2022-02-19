@@ -1,0 +1,15 @@
+INSERT INTO workers(worker_name, worker_profession) 
+        VALUES ('Akbar', 'direktor'),
+               ('Kamol', 'zamdirektor'),
+               ('Akmal', 'buxgalter'),
+               ('Ahmad', 'zambuxgalter'),
+               ('Ismat', 'administrator'),
+               ('Umid', 'haydovchi'),
+               ('Gulchapchap', 'tozalovchi'),
+               ('Abdurahmon', 'otdel kador'),
+               ('Bobur', 'ombor mudiri'),
+               ('Avaz', 'kuryer'),
+               ('Sardor', 'menejer'),
+               ('Kamola', 'kassir'),
+               ('Jamola', 'kassir'),
+               ('Baxtiyor', 'qorovul');
